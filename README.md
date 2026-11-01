@@ -14,6 +14,8 @@ It was build by using tools which are available on every NixOS installation medi
 # Screenshots
 <img width="830" height="540" alt="grub-emu_NXS-boot-menu1_cut" src="https://github.com/user-attachments/assets/9b939700-ffcb-41de-ab15-a89d644bb768" />
 <img width="830" height="600" alt="grub-emu_NXS-boot-menu3_cut" src="https://github.com/user-attachments/assets/199a0ed4-4305-4c20-a55f-3ca2f04e1426" />
+<img width="830" height="600" alt="nixos-boot-menu" src="https://github.com/user-attachments/assets/b46fd84a-8c6d-4dd1-9e2e-98bb26f010ce" />
+
 
 
 
